@@ -4,7 +4,7 @@
 Ejercicio personal para el manejo de clases CSS y animación a través de JS tras activar la barra espaciadora.
 > **DEMO** [https://jaimegonzall.github.io/frontend-test.github.io/](https://jaimegonzall.github.io/DinoRun.github.io/)
 
-![Objetivo visual](https://github.com/jaimegonzall/DinoRun/blob/main/readme_img.jpg)
+![Objetivo visual](https://raw.githubusercontent.com/jaimegonzall/DinoRun/main/img/readme_img.jpg)
 
 ## Tabla de contenidos 📑
 1. [Características técnicas](item1)
