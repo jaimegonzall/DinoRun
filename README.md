@@ -2,7 +2,7 @@
 
 # Run Dino Run
 Ejercicio personal para el manejo de clases CSS y animación a través de JS tras activar la barra espaciadora.
-> **DEMO** [https://jaimegonzall.github.io/frontend-test.github.io/](https://jaimegonzall.github.io/DinoRun.github.io/)
+> **DEMO** [https://jaimegonzall.github.io/DinoRun/](https://jaimegonzall.github.io/DinoRun/)
 
 ![Objetivo visual](https://github.com/jaimegonzall/DinoRun/blob/main/readme_img.jpg)
 
@@ -65,8 +65,11 @@ Al tratarse de una aplicación simple de HTML, CSS y JS no se requieren programa
 
 <a name="item7"></a>
 
+
+
 ## Licencia 📄
 Este proyecto no está bajo ninguna Licencia. Puedes copiar y usarlo y modificarlo a tu gusto con tal de que aprendas.
+Yo mismo me basé en [este vídeo](https://www.youtube.com/watch?v=i7nIutSLvdU) para crearlo. 
 
 👨‍💻 con ❤️ por [Jaimegonzall](https://github.com/jaimegonzall) 😊
 [Linkedin](https://www.linkedin.com/in/jaimegonzall/)
